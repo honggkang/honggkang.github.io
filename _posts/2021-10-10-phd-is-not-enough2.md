@@ -1,9 +1,9 @@
 ---
 layout: post
+toc: true
 title: 공학자/과학자/연구자를 위한 생존 전략 (2)
 categories: 연구
 comments: true
-toc: true
 author: Hong-Gu Kang
 ---
 
