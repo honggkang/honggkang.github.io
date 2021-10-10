@@ -14,7 +14,7 @@ paginate: 10
 
 # Uncomment the below line and set the tracking ID for enabling Google Analytics
 # 
-# google_analytics: 
+google_analytics: G-DM9X84T98N
 
 # Uncomment the below lines and set the Disqus shortname for enabling Disqus
 # 
@@ -42,5 +42,6 @@ social:
 #    - https://twitter.com/ngzhio
     - https://www.facebook.com/rednine94
     - https://github.com/honggkang
-google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
+google_site_verification: raE_igRm3JOsNvmdYMHA2S3YHolP-9PrwUv19fsTiG4
+#google-site-verification=raE_igRm3JOsNvmdYMHA2S3YHolP-9PrwUv19fsTiG4
 lang: en
