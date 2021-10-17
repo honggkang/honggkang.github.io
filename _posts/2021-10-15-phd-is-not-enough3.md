@@ -7,11 +7,12 @@ comments: true
 author: Hong-Gu Kang
 ---
 
-Peter J. Feibelman 원저의 `A Ph.D. Is Not Enought!`을 읽으며 개인적으로 인상 깊은 내용을 정리하는 세 번째 포스팅이다.
+Peter J. Feibelman 원저의 `A Ph.D. Is Not Enough!`을 읽으며 개인적으로 인상 깊은 내용을 정리하는 세 번째 포스팅이다.
 
 [공학자/과학자/연구자를 위한 생존 전략 (1)][enough1] |
 [공학자/과학자/연구자를 위한 생존 전략 (2)][enough2] |
 [공학자/과학자/연구자를 위한 생존 전략 (3)][enough3] |
+[공학자/과학자/연구자를 위한 생존 전략 (4)][enough4] |
 
 ## 1. 고용주의 시각으로 보라
 
@@ -51,3 +52,4 @@ Peter J. Feibelman 원저의 `A Ph.D. Is Not Enought!`을 읽으며 개인적으
 [enough1]: https://honggkang.github.io/%EC%97%B0%EA%B5%AC/2021/10/09/phd-is-not-enough1.html
 [enough2]: https://honggkang.github.io/%EC%97%B0%EA%B5%AC/2021/10/11/phd-is-not-enough2.html
 [enough3]: https://honggkang.github.io/%EC%97%B0%EA%B5%AC/2021/10/15/phd-is-not-enough3.html
+[enough4]: https://honggkang.github.io/%EC%97%B0%EA%B5%AC/2021/10/17/phd-is-not-enough4.html
