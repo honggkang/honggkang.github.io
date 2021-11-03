@@ -1,6 +1,7 @@
-title: Hong-Gu Kang
+title: Hong-Gu Kang's Blog
 description: A Ph.D. student and researcher.
 author: Honggu Kang
+url: https://honggkang.github.io/
 avatar: /logo.jpg
 email: rednine13@gmail.com
 
@@ -35,6 +36,7 @@ exclude:
 #twitter:
 #  username: ngzhio
 #  card: summary
+url:
 logo: logo.png
 social:
   name: Honggu Kang
@@ -42,5 +44,5 @@ social:
 #    - https://twitter.com/ngzhio
     - https://www.facebook.com/rednine94
     - https://github.com/honggkang
-# google_site_verification: raE_igRm3JOsNvmdYMHA2S3YHolP-9PrwUv19fsTiG4
+google_site_verification: raE_igRm3JOsNvmdYMHA2S3YHolP-9PrwUv19fsTiG4
 lang: en

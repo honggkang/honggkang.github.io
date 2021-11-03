@@ -79,7 +79,7 @@ PLATFORMS
 
 DEPENDENCIES
   bundler (~> 2.0)
-  jekyll-sitemap
+  jekyll-seo-tag
   jekyll-theme-hamilton!
   rake (~> 12.0)
 
