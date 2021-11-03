@@ -1,10 +1,11 @@
 title: Hong-Gu Kang's Blog
 description: A Ph.D. student and researcher.
 author: Honggu Kang
-url: https://honggkang.github.io/
+url: "https://honggkang.github.io/"
 avatar: /logo.jpg
 email: rednine13@gmail.com
 
+# gems: [jekyll-sitemap]
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
