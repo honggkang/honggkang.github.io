@@ -9,6 +9,11 @@ author: Hong-Gu Kang
 
 권도균의 `권도균의 스타트업 경영 수업`을 읽으며 개인적으로 인상 깊은 내용을 정리하는 두 번째 포스팅이다.
 
+[권도균의 스타트업 경영 수업 (1)][dokyun1] |
+[권도균의 스타트업 경영 수업 (2)][dokyun2] |
+[권도균의 스타트업 경영 수업 (3)][dokyun3] |
+[권도균의 스타트업 경영 수업 (4)][dokyun4] |
+
 ## 우물 안에 갇히지 마라
 
 기존에 '제대로 된 것이 없어서' 사업을 한다는 이야기를 듣고 확인해보면 많은 경우 기존에 있는 제대로 된 것을 '제대로' 조사하지 못했거나, 개인적 취향에 맞지 않는 것을 제대로 되지 않았다고 판단한 것이다. 이는 '제대로'에 대한 '관점'이 다른 것이다. '제대로'라는 말은 실체가 모호한 주관적이고 상대적인 말이라는 것을 기억해야 한다.
@@ -51,9 +56,7 @@ author: Hong-Gu Kang
 
 > 조급해하지 말고, 본질에 집중하며 하나씩 해나가야 한다. 좋은 환경이나 사업적 제휴도 중요하지만, (초기) 스타트업이 추구해야할 방향성은 아닌 것 같다. 스포츠 경기에서 이긴 다는 것은 1점, 1점씩 따내서 이기는 것이다.
 
-<!--
-[enough1]: https://honggkang.github.io/%EC%97%B0%EA%B5%AC/2021/10/09/phd-is-not-enough1.html
-[enough2]: https://honggkang.github.io/%EC%97%B0%EA%B5%AC/2021/10/11/phd-is-not-enough2.html
-[enough3]: https://honggkang.github.io/%EC%97%B0%EA%B5%AC/2021/10/15/phd-is-not-enough3.html
-[enough4]: https://honggkang.github.io/%EC%97%B0%EA%B5%AC/2021/10/17/phd-is-not-enough4.html
--->
+[dokyun1]: https://honggkang.github.io/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85/2021/11/11/dokyun-startup1.html
+[dokyun2]: https://honggkang.github.io/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85/2021/11/11/dokyun-startup2.html
+[dokyun3]: https://honggkang.github.io/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85/2021/11/12/dokyun-startup3.html
+[dokyun4]: https://honggkang.github.io/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85/2021/11/14/dokyun-startup4.html

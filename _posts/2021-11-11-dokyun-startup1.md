@@ -9,6 +9,11 @@ author: Hong-Gu Kang
 
 권도균의 `권도균의 스타트업 경영 수업`을 읽으며 개인적으로 인상 깊은 내용을 정리하는 첫 번째 포스팅이다.
 
+[권도균의 스타트업 경영 수업 (1)][dokyun1] |
+[권도균의 스타트업 경영 수업 (2)][dokyun2] |
+[권도균의 스타트업 경영 수업 (3)][dokyun3] |
+[권도균의 스타트업 경영 수업 (4)][dokyun4] |
+
 ## 모두가 '세계 최초'를 외친다
 
 발표 첫마디가 "이것은 세계 최초입니다."였다. 발표를 듣는 짧는 시간을 이용해 인터넷 검색을 시작했다. 키워드를 변경해가면서 몇 번의 검색을 반복하자 비슷한 제품과 서비스, 관련 회사 이름들이 주르륵 화면에 등장했다. 불과 5분밖에 걸리지 않았다.
@@ -60,9 +65,8 @@ author: Hong-Gu Kang
 
 > 정말ㄹ 고객의 문제를 풀 수 있는 제품을 만들어야 한다. PMF에 큰 공을 들여야하고, 그렇게 제품을 찾아나가는 것이 적은 비용으로 승리할 수 있는 스타트업의 핵심 철학이다.
 
-<!--
-[enough1]: https://honggkang.github.io/%EC%97%B0%EA%B5%AC/2021/10/09/phd-is-not-enough1.html
-[enough2]: https://honggkang.github.io/%EC%97%B0%EA%B5%AC/2021/10/11/phd-is-not-enough2.html
-[enough3]: https://honggkang.github.io/%EC%97%B0%EA%B5%AC/2021/10/15/phd-is-not-enough3.html
-[enough4]: https://honggkang.github.io/%EC%97%B0%EA%B5%AC/2021/10/17/phd-is-not-enough4.html
--->
+
+[dokyun1]: https://honggkang.github.io/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85/2021/11/11/dokyun-startup1.html
+[dokyun2]: https://honggkang.github.io/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85/2021/11/11/dokyun-startup2.html
+[dokyun3]: https://honggkang.github.io/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85/2021/11/12/dokyun-startup3.html
+[dokyun4]: https://honggkang.github.io/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85/2021/11/14/dokyun-startup4.html

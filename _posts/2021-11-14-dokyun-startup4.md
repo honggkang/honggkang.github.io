@@ -9,6 +9,11 @@ author: Hong-Gu Kang
 
 권도균의 `권도균의 스타트업 경영 수업`을 읽으며 개인적으로 인상 깊은 내용을 정리하는 네 번째 포스팅이다.
 
+[권도균의 스타트업 경영 수업 (1)][dokyun1] |
+[권도균의 스타트업 경영 수업 (2)][dokyun2] |
+[권도균의 스타트업 경영 수업 (3)][dokyun3] |
+[권도균의 스타트업 경영 수업 (4)][dokyun4] |
+
 ## 그들의 찬사는 잘 모른다는 표시다
 
 고객의 진짜 속마음은 많은 시간과 관심과 애정을 들여 관찰하고, 실험하고 직접 대화를 해서만이 볼 수 있다는 것을 스타트업 CEO는 모른다. CEO가 고객을 직접 만난다 하더라도 고객 간담회와 같이 기획되고 준비된 환경에 선별된 고객을 초청해 고급 요리를 공짜로 먹으며 했던 이야기와, 이벤트 경품 받고 즐거워하며 한 행동과 반응을 보면서 고객을 만나고 이해했다고 오해하기 쉽다. 혹은 일부 주변의 친구들이나 지인들의 찬사를 고객의 찬사로 보편화하는 오류를 범한다. 
@@ -101,9 +106,7 @@ A를 잘하기 위해 B 기능과 C 기능을 추가한다고, A가 경쟁력이
 
 > 좋은 투자자들은 곧 내가 돼야 하고, 동업자들이 되어야 함. 그래야 나와 동업자들에게 내가 지금하고 있는 일에 대해 정당하게 투자할 수 있으니. 계기와 스토리, 근원적인 동기의 뿌리로부터 나오는 사업을 할 수 있도록 하자.
 
-<!--
-[enough1]: https://honggkang.github.io/%EC%97%B0%EA%B5%AC/2021/10/09/phd-is-not-enough1.html
-[enough2]: https://honggkang.github.io/%EC%97%B0%EA%B5%AC/2021/10/11/phd-is-not-enough2.html
-[enough3]: https://honggkang.github.io/%EC%97%B0%EA%B5%AC/2021/10/15/phd-is-not-enough3.html
-[enough4]: https://honggkang.github.io/%EC%97%B0%EA%B5%AC/2021/10/17/phd-is-not-enough4.html
--->
+[dokyun1]: https://honggkang.github.io/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85/2021/11/11/dokyun-startup1.html
+[dokyun2]: https://honggkang.github.io/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85/2021/11/11/dokyun-startup2.html
+[dokyun3]: https://honggkang.github.io/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85/2021/11/12/dokyun-startup3.html
+[dokyun4]: https://honggkang.github.io/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85/2021/11/14/dokyun-startup4.html
