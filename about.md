@@ -14,25 +14,25 @@ I received the B.Sc. degree (summa cum laude) in electronic engineering from Han
 Also refer to my [google scholar][google-scholar].
 ### Journal
 
-<span style="color:red">**[J6]**</span> S. Joo, H. Kang, and J. Kang, "CoSMoS: Cooperative Sky-ground Mobile Edge Computing System," *IEEE Trans. Veh. Technol.*, vol 70, no. 8, pp. 8373-8377, Aug. 2021. [SCI, IF: 5.978 (2020)]
+<span style="color:red">**[J6]**</span> S. Joo, **H. Kang**, and J. Kang, "CoSMoS: Cooperative Sky-ground Mobile Edge Computing System," *IEEE Trans. Veh. Technol.*, vol 70, no. 8, pp. 8373-8377, Aug. 2021. [SCI, IF: 5.978 (2020)]
 
-<span style="color:red">**[J5]**</span> H. Kang, J. Joung, J. Kim, J. Kang and Y. S. Cho, "Protect your sky: A survey of counter unmanned aerial vehicle systems," *IEEE Access*, vol. 8, pp. 168671-168710, Sep. 2020. [SCI(E), IF: 3.745 (2019)]
+<span style="color:red">**[J5]**</span> **H. Kang**, J. Joung, J. Kim, J. Kang and Y. S. Cho, "Protect your sky: A survey of counter unmanned aerial vehicle systems," *IEEE Access*, vol. 8, pp. 168671-168710, Sep. 2020. [SCI(E), IF: 3.745 (2019)]
 
-[J4] H. Kang, J. Joung, and J. Kang, “BDMA-based downlink beamforming design to minimize multi-UAV power consumption,” The Journal of Korean Institute of Communications and Information Sciences, vol. 45, no. 6, pp. 1122–1128, Jun. 2020. 
+[J4] **H. Kang**, J. Joung, and J. Kang, “BDMA-based downlink beamforming design to minimize multi-UAV power consumption,” The Journal of Korean Institute of Communications and Information Sciences, vol. 45, no. 6, pp. 1122–1128, Jun. 2020. 
 
-[J3] H. Kang, J. Park, C. Hwang, and J. Kang, “Beam design minimizing power for BDMA-based UAV operation,” The Journal of Korean Institute of Communications and Information Sciences, vol. 45, no. 2, pp. 281–284, Feb. 2020. 
+[J3] **H. Kang**, J. Park, C. Hwang, and J. Kang, “Beam design minimizing power for BDMA-based UAV operation,” The Journal of Korean Institute of Communications and Information Sciences, vol. 45, no. 2, pp. 281–284, Feb. 2020. 
 
-<span style="color:red">**[J2]**</span> H. Kang, J. Joung, J. Ahn, and J. Kang, “Secrecy-aware altitude optimization for quasi-static UAV base station without eavesdropper location information,” *IEEE Commun. Lett.*, vol. 23, no. 5, pp. 851-854, May 2019. [SCI, IF: 3.457 (2019)]
+<span style="color:red">**[J2]**</span> **H. Kang**, J. Joung, J. Ahn, and J. Kang, “Secrecy-aware altitude optimization for quasi-static UAV base station without eavesdropper location information,” *IEEE Commun. Lett.*, vol. 23, no. 5, pp. 851-854, May 2019. [SCI, IF: 3.457 (2019)]
 
-[J1] Y. Jang, H. Kang, M. Park, J. W. Choi, and J. Kang, “Analysis on secondary user receiver SINR in spectrum sharing MIMO cognitive radio networks with multi secondary users,” The Journal of Korean Institute of Communications and Information Sciences, vol. 44, no. 2, pp. 252–261, Feb. 2019. 
+[J1] Y. Jang, **H. Kang**, M. Park, J. W. Choi, and J. Kang, “Analysis on secondary user receiver SINR in spectrum sharing MIMO cognitive radio networks with multi secondary users,” The Journal of Korean Institute of Communications and Information Sciences, vol. 44, no. 2, pp. 252–261, Feb. 2019. 
 
 ### Conference
 
-<span style="color:red">**[C12]**</span> H. Kang, J. Joung, and J. Kang, "Power-efficient formation of UAV swarm: Just like flying birds?," in *Proc. IEEE Global Communications Conference (GLOBECOM)*, Taipei, Taiwan, Dec. 2020, pp. 1-6. [Top conference]
+<span style="color:red">**[C12]**</span> **H. Kang**, J. Joung, and J. Kang, "Power-efficient formation of UAV swarm: Just like flying birds?," in *Proc. IEEE Global Communications Conference (GLOBECOM)*, Taipei, Taiwan, Dec. 2020, pp. 1-6. [Top conference]
 
 [C11] H. Kang, J. Joung, and J. Kang, “BDMA-based UAV swarm formation to minimize uplink communication power,” in Proc. Korean Institute of communications and Information Sciences (KICS), Winter, Yongpyong, Korea, Feb. 2020
 
-<span style="color:red">**[C10]**</span> H. Kang, J. Joung, and J. Kang, “Power efficient beam design for BDMA-based Relay UAV,” in *Proc. Korean Institute of communications and Information Sciences (KICS)*, Fall, Seoul, Korea, Nov. 2019 [Best Paper Award]
+<span style="color:red">**[C10]**</span> **H. Kang**, J. Joung, and J. Kang, “Power efficient beam design for BDMA-based Relay UAV,” in *Proc. Korean Institute of communications and Information Sciences (KICS)*, Fall, Seoul, Korea, Nov. 2019 [Best Paper Award]
 
 [C9] H. Kang, H. Choi, C. Hwang, and J. Kang, “Optimization of beam division multiple access based multiple UAVs operation maximizing sum rate,” in Proc. Korean Institute of communications and Information Sciences (KICS), Fall, Seoul, Korea, Nov. 2019
 
