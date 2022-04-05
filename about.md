@@ -10,6 +10,20 @@ I received the B.Sc. degree (summa cum laude) in electronic engineering from Han
 
 <hr/>
 
+## Motto
+
+I have worked on innumerable problems that you would call humble, but which I enjoyed and felt very good about because I sometimes could partially succeed... No problem is too small or too trivial if we can really do something about it. (Richard Feynman's Letter on What Problems to Solve)
+
+Any choice has its tradeoff. Nothing's only bad, nothing's only good. No need to excessively agonize about sth and hesistate. Act resolutely!
+
+Unstable without feedback. Failure is tolerable without repeated (same) mistakes. Learning from failure is necessary.
+
+- Healthy/sustatinable organization.
+- Human deserves not to do repeated, unhappy and meaningless works (human dignity).
+- I (and human) confronts the problem thinking about what I have to do, if I am doing right, and I am happy at the end. Busily resolving the near problems everytime makes me not to think about myself.
+
+<hr/>
+
 ## Publication
 Also refer to my [google scholar][google-scholar].
 ### Journal
