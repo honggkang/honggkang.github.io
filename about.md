@@ -16,7 +16,7 @@ I have worked on innumerable problems that you would call humble, but which I en
 
 Any choice has its tradeoff. Nothing's only bad, nothing's only good. No need to excessively agonize about sth and hesistate. Act resolutely!
 
-Unstable without feedback. Failure is tolerable without repeated (same) mistakes. Learning from failure is necessary.
+Unstable without feedback. Failure is tolerable, but without (same) mistakes. Learning from failure is necessary.
 
 - Healthy/sustatinable organization.
 - Human deserves not to do repeated, unhappy and meaningless works (human dignity).
@@ -67,6 +67,7 @@ Also refer to my [google scholar][google-scholar].
 [C1] H. Kang, T. Kim, and J. Kang , “MIMO relay selection scheme via SVM in relay-assisted cooperative spectrum sensing,” in Proc. Korean Institute of communications and Information Sciences (KICS), Winter, Jeongseon, Korea, Jan. 2018, pp. 594–595.
 
 ### Patent
-“APPARATUS AND METHOD FOR CONTROLLING PERFORMANCE OF RECEIVER FOR SUB-DEVICE IN MIMO COGNITIVE RADIO SYSTEMS,” KR application no. 10-2019-0008552, Jan. 23, 2019
+[P1] "APPARATUS AND METHOD FOR CONTROLLING PERFORMANCE OF RECEIVER FOR SUB-DEVICE IN MIMO COGNITIVE RADIO SYSTEMS," KR application no. 10-2019-0008552, Jan. 23, 2019
 
+[P2] "SYSTEM AND METHOD FOR MOBILE EDGE COMPUTING USING TETHERED UNMANNED AERIAL VEHICLE AND GROUND EDGE CLOUD," KR application no. 10-2021-0040379, patent no. 10-2345374, Dec. 27, 2021
 [google-scholar]: https://scholar.google.com/citations?user=zVQggNkAAAAJ&hl=ko
