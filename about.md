@@ -70,4 +70,5 @@ Also refer to my [google scholar][google-scholar].
 [P1] "APPARATUS AND METHOD FOR CONTROLLING PERFORMANCE OF RECEIVER FOR SUB-DEVICE IN MIMO COGNITIVE RADIO SYSTEMS," KR application no. 10-2019-0008552, Jan. 23, 2019
 
 [P2] "SYSTEM AND METHOD FOR MOBILE EDGE COMPUTING USING TETHERED UNMANNED AERIAL VEHICLE AND GROUND EDGE CLOUD," KR application no. 10-2021-0040379, patent no. 10-2345374, Dec. 27, 2021
+
 [google-scholar]: https://scholar.google.com/citations?user=zVQggNkAAAAJ&hl=ko
