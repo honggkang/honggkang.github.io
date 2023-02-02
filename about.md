@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ## Short bio
-I received the B.Sc. degree (summa cum laude) in electronic engineering from Hanyang University, Seoul, South Korea, in 2017, and the M.Sc. degree from the School of Electrical Engineering, Korea Advanced Institute of Science and Technology
+I received the B.Sc. degree in electronic engineering from Hanyang University, Seoul, South Korea, in 2017, and the M.Sc. degree from the School of Electrical Engineering, Korea Advanced Institute of Science and Technology
 (KAIST), Daejeon, South Korea, in 2019, where I am currently pursuing the Ph.D. degree. My research interests include signal processing for wireless communications, signal processing, optimization and machine learning.
 
 <hr/>
@@ -14,7 +14,9 @@ I received the B.Sc. degree (summa cum laude) in electronic engineering from Han
 
 I have worked on innumerable problems that you would call humble, but which I enjoyed and felt very good about because I sometimes could partially succeed... No problem is too small or too trivial if we can really do something about it. (Richard Feynman's Letter on What Problems to Solve)
 
-Any choice has its tradeoff. Nothing's only bad, nothing's only good. No need to excessively agonize about sth and hesistate. Act resolutely!
+I have not failed, but found 1000 ways to not make a light bulb. (Thomas Edison)
+
+Every decision entails trade-offs. There is no such thing as an option that is entirely negative or entirely positive. It is unnecessary to excessively ruminate over a decision and hesitate. Instead, act with determination.
 
 Unstable without feedback. Failure is tolerable, but without (same) mistakes. Learning from failure is necessary.
 
@@ -41,6 +43,8 @@ Also refer to my [google scholar][google-scholar].
 [J1] Y. Jang, **H. Kang**, M. Park, J. W. Choi, and J. Kang, “Analysis on secondary user receiver SINR in spectrum sharing MIMO cognitive radio networks with multi secondary users,” The Journal of Korean Institute of Communications and Information Sciences, vol. 44, no. 2, pp. 252–261, Feb. 2019. 
 
 ### Conference
+
+[C13] H. Kang, J. Shin, J. Lee, J. Kang, "Model-agnostic federated learning," to be submitted
 
 <span style="color:red">**[C12]**</span> **H. Kang**, J. Joung, and J. Kang, "Power-efficient formation of UAV swarm: Just like flying birds?," in *Proc. IEEE Global Communications Conference (GLOBECOM)*, Taipei, Taiwan, Dec. 2020, pp. 1-6. [Top conference]
 
