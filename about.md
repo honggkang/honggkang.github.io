@@ -29,11 +29,8 @@ I received the B.Sc. degree in electronic engineering from Hanyang University, S
 - I get tired but I am not painful. I don't get disappointed by failures.
 
 - I live my own life. I am not conscious of the others.
-<!---
-- Healthy/sustainable organization.
-- Human deserves not to do repeated, unhappy and meaningless works (human dignity).
-- I confront the problem thinking about what I have to do, if I am doing right, and I am happy at the end. Busily resolving the near problems everytime makes me not to think about myself.
--->
+
+
 <hr/>
 
 ## Publication
@@ -56,7 +53,7 @@ Also refer to my [google scholar][google-scholar].
 
 [C15] **H. Kang**, S. Cha, J. Seo, J. Kang, "GeFL: Generative model-aided federated learning," (to be submitted).
 
-[C14] **H. Kang**, S. Cha, J. Shin, J. Lee, J. Kang, "NeFL: Nested federated learning," (submitted).
+[C14] **H. Kang**, S. Cha, J. Shin, J. Lee, J. Kang, "NeFL: Nested federated learning for heterogeneous clients," (submitted).
 
 [C13] H. Kim, **H. Kang**, J. Kang, "Joint optimization of E2E latency, FPS, energy, and confidentiality for surveillance UAV," in *Proc. IEEE Military Communications Conference (MILCOM) Workshop on Distributed AI/ML at the Resource Constrained Edge*, Boston, MA, USA, Oct. 2023, pp. 1-7.
 
