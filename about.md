@@ -6,24 +6,34 @@ permalink: /about/
 
 ## Short bio
 I received the B.Sc. degree in electronic engineering from Hanyang University, Seoul, South Korea, in 2017, and the M.Sc. degree from the School of Electrical Engineering, Korea Advanced Institute of Science and Technology
-(KAIST), Daejeon, South Korea, in 2019, where I am currently pursuing the Ph.D. degree. My research interests include signal processing for wireless communications, signal processing, optimization and machine learning.
+(KAIST), Daejeon, South Korea, in 2019, where I am currently pursuing the Ph.D. degree. My research interests include signal processing, wireless communications, edge AI, and distributed machine learning.
 
 <hr/>
 
 ## Motto
 
-I have worked on innumerable problems that you would call humble, but which I enjoyed and felt very good about because I sometimes could partially succeed... No problem is too small or too trivial if we can really do something about it. (Richard Feynman's Letter on What Problems to Solve)
+> I have worked on innumerable problems that you would call humble, but which I enjoyed and felt very good about because I sometimes could partially succeed... No problem is too small or too trivial if we can really do something about it. <br /> (Richard Feynman's Letter on What Problems to Solve)
 
-I have not failed, but found 1000 ways to not make a light bulb. (Thomas Edison)
+> I have not failed, but found 1000 ways to not make a light bulb. <br />(Thomas Edison)
 
-Every decision entails trade-offs. There is no such thing as an option that is entirely negative or entirely positive. It is unnecessary to excessively ruminate over a decision and hesitate. Instead, act with determination.
+- Every decision entails trade-offs. There is no option that is entirely negative or entirely positive. It is unnecessary to excessively ruminate over a decision and hesitate. Instead, act without hesitation!
 
-Unstable without feedback. Failure is tolerable, but without (same) mistakes. Learning from failure is necessary.
+- Everything gets unstable without feedback. Failure is tolerable, but without same mistakes. Learning from failure is necessary.
 
-- Healthy/sustatinable organization.
+- My goal is not to fail in short period, but to succeed in long-term.
+
+- Nobody lives in a complete and stable circumstances. I Just do my best in my position.
+
+- Things I get while pursuing a goal is also my goal.
+
+- I get tired but I am not painful. I don't get disappointed by failures.
+
+- I live my own life. I am not conscious of the others.
+<!---
+- Healthy/sustainable organization.
 - Human deserves not to do repeated, unhappy and meaningless works (human dignity).
-- I (and human) confronts the problem thinking about what I have to do, if I am doing right, and I am happy at the end. Busily resolving the near problems everytime makes me not to think about myself.
-
+- I confront the problem thinking about what I have to do, if I am doing right, and I am happy at the end. Busily resolving the near problems everytime makes me not to think about myself.
+-->
 <hr/>
 
 ## Publication
@@ -44,9 +54,13 @@ Also refer to my [google scholar][google-scholar].
 
 ### Conference
 
-[C13] H. Kang, J. Shin, J. Lee, J. Kang, "Model-agnostic federated learning," to be submitted
+[C15] **H. Kang**, S. Cha, J. Seo, J. Kang, "GeFL: Generative model-aided federated learning," (to be submitted).
 
-<span style="color:red">**[C12]**</span> **H. Kang**, J. Joung, and J. Kang, "Power-efficient formation of UAV swarm: Just like flying birds?," in *Proc. IEEE Global Communications Conference (GLOBECOM)*, Taipei, Taiwan, Dec. 2020, pp. 1-6. [Top conference]
+[C14] **H. Kang**, S. Cha, J. Shin, J. Lee, J. Kang, "NeFL: Nested federated learning," (submitted).
+
+[C13] H. Kim, **H. Kang**, J. Kang, "Joint optimization of E2E latency, FPS, energy, and confidentiality for surveillance UAV," in *Proc. IEEE Military Communications Conference (MILCOM) Workshop on Distributed AI/ML at the Resource Constrained Edge*, Boston, MA, USA, Oct. 2023, pp. 1-7.
+
+<span style="color:red">**[C12]**</span> **H. Kang**, J. Joung, and J. Kang, "Power-efficient formation of UAV swarm: Just like flying birds?," in *Proc. IEEE Global Communications Conference (GLOBECOM)*, Taipei, Taiwan, Dec. 2020, pp. 1-6.
 
 [C11] H. Kang, J. Joung, and J. Kang, “BDMA-based UAV swarm formation to minimize uplink communication power,” in Proc. Korean Institute of communications and Information Sciences (KICS), Winter, Yongpyong, Korea, Feb. 2020
 
@@ -60,11 +74,11 @@ Also refer to my [google scholar][google-scholar].
 
 [C6] H. Kang, J. Joung, and J. Kang, "Beamwidth of base stations for maximizing coverage of aerial users," in Proc. ICUFN 2019, Zagreb, Croatia, Jul. 2019, pp. 1-3 
 
-[C5] H. Kang, W. Shin, and J. Joung, “Machine Learning-Aided Low Complexity Antenna Selection for Multiuser Downlink Networks,” in Proc. Korean Institute of communications and Information Sciences (KICS), Summer, Jeju, Korea, Jun. 2019
+[C5] H. Kang, W. Shin, and J. Joung, “Machine learning-aided low complexity antenna selection for multiuser downlink networks,” in Proc. Korean Institute of communications and Information Sciences (KICS), Summer, Jeju, Korea, Jun. 2019
 
-[C4] H. Kang, and J. Joung, “k-NN Based Antenna Selection Techniques for MIMO Systems,” in Proc. Korean Institute of communications and Information Sciences (KICS), Summer, Jeju, Korea, Jun. 2019
+[C4] H. Kang, and J. Joung, “k-NN based antenna selection techniques for MIMO systems,” in Proc. Korean Institute of communications and Information Sciences (KICS), Summer, Jeju, Korea, Jun. 2019
 
-[C3] W. Kim , J. Ahn, H. Kang, and J. Kang. “Experiment of DOA Estimation using MIMO SDR at 2.4GHz frequency band,” in Proc. Korean Institute of communications and Information Sciences (KICS), Fall, Seoul, Korea, Nov. 2018, pp. 481–482.
+[C3] W. Kim , J. Ahn, H. Kang, and J. Kang. “Experiment of DOA estimation using MIMO SDR at 2.4GHz frequency band,” in Proc. Korean Institute of communications and Information Sciences (KICS), Fall, Seoul, Korea, Nov. 2018, pp. 481–482.
 
 [C2] H. Kang, J. Joung, J. Ahn, and J. Kang, “UAV-BS altitude optimization technique maximizing physical layer security via eavesdropper density information,” in Proc. Korea Institude of Military Science and Technology (KIMST) conference, Fall, Daejeon, Korea, Nov. 2018, pp. 1045–1046.
 
