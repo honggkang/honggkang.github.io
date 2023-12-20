@@ -5,8 +5,8 @@ permalink: /about/
 ---
 
 ## Short bio
-I received the B.Sc. degree in electronic engineering from Hanyang University, Seoul, South Korea, in 2017, and the M.Sc. degree from the School of Electrical Engineering, Korea Advanced Institute of Science and Technology
-(KAIST), Daejeon, South Korea, in 2019, where I am currently pursuing the Ph.D. degree. My research interests include signal processing, wireless communications, edge AI, and distributed machine learning.
+I received the B.Sc. degree in electronic engineering from Hanyang University, Seoul, South Korea, in 2017, and the M.Sc. and Ph.D. degrees from the School of Electrical Engineering, Korea Advanced Institute of Science and Technology
+(KAIST), Daejeon, South Korea, in 2019 and 2024. My research interests include signal processing, wireless communications, edge AI, and distributed machine learning.
 
 <hr/>
 
