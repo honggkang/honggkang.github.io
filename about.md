@@ -51,11 +51,15 @@ Also refer to my [google scholar][google-scholar].
 
 ### Conference
 
-[C15] **H. Kang**, S. Cha, J. Seo, J. Kang, "GeFL: Generative model-aided federated learning," (to be submitted).
+[C17] J. Shin, J. Ahn, **H. Kang**, and J. Kang, "FedSplitX: Federated split learning for computationally-constrained heterogeneous clients," (to be submitted).
 
-[C14] **H. Kang**, S. Cha, J. Shin, J. Lee, J. Kang, "NeFL: Nested federated learning for heterogeneous clients," (submitted).
+[C16] **H. Kang**, S. Cha, J. Seo, and J. Kang, "GeFL: Generative model-aided federated learning," (to be submitted).
 
-[C13] H. Kim, **H. Kang**, J. Kang, "Joint optimization of E2E latency, FPS, energy, and confidentiality for surveillance UAV," in *Proc. IEEE Military Communications Conference (MILCOM) Workshop on Distributed AI/ML at the Resource Constrained Edge*, Boston, MA, USA, Oct. 2023, pp. 1-7.
+[C15] **H. Kang**, S. Cha, J. Shin, J. Lee, and J. Kang, "NeFL: Nested federated learning for heterogeneous clients," (submitted).
+
+<span style="color:red">**[C14]**</span> S. Cha, **H. Kang**, and J. Kang, "On the temperature of Bayesian graph neural networks for conformal prediction," in *Neural Information Processing Systems (NeurIPS) Workshop on New Frontiers in Graph Learning*, New Orleans, LA, USA, Dec. 2023, pp. 1-15.
+
+<span style="color:red">**[C13]**</span> H. Kim, **H. Kang**, and J. Kang, "Joint optimization of E2E latency, FPS, energy, and confidentiality for surveillance UAV," in *Proc. IEEE Military Communications Conference (MILCOM) Workshop on Distributed AI/ML at the Resource Constrained Edge*, Boston, MA, USA, Oct. 2023, pp. 1-7.
 
 <span style="color:red">**[C12]**</span> **H. Kang**, J. Joung, and J. Kang, "Power-efficient formation of UAV swarm: Just like flying birds?," in *Proc. IEEE Global Communications Conference (GLOBECOM)*, Taipei, Taiwan, Dec. 2020, pp. 1-6.
 
