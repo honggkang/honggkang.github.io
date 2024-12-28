@@ -1,4 +1,5 @@
-npm build
+name: npm build
+run: npm install && npm run build
 
 name: "Build and Deploy"
 on:
