@@ -1,3 +1,5 @@
+npm build
+
 name: "Build and Deploy"
 on:
   push:
