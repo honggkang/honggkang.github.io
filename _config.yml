@@ -152,6 +152,12 @@ paginate: 10
 # The base URL of your site
 baseurl: ""
 
+# Math equation
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
 # ------------ The following options are not recommended to be modified ------------------
 
 kramdown:
