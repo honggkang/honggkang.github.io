@@ -13,6 +13,10 @@
     {% seo title=false %}
   {%- endcapture -%}
 
+  {% if page.use_math %}
+    {% include mathjax_support.html %}
+  {% endif %}
+
   <!-- Setup Open Graph image -->
 
   {% if page.image %}
