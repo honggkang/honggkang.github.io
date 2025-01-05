@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Least sqaure 개념과 설명
-author: Hong-Gu Kang
 toc: true
 categories: 연구
 comments: true
@@ -16,7 +15,7 @@ Least square (LS) 정리
 아래와 같은 연립방정식이 있다고 하자.
 \\[
 \begin{aligned}
-2x_1+x_2 = 2\\
+2x_1+x_2 = 2\\\\\\
 x_1+2x_2 = 1
 \end{aligned}
 \\]
@@ -25,20 +24,20 @@ x_1+2x_2 = 1
 이걸 행렬로 표현하면 아래와 같이 표현이 된다.
 \\[
 \begin{aligned}
-& A\mathbf{x} = \mathbf{b},\\
-& \text{where } A =
+A\mathbf{x} = \mathbf{b},
+\text{where } A =
 \begin{bmatrix}
-2 & 1 \\
+2 & 1 \\\\\\
 1 & 2 
 \end{bmatrix},
 \mathbf{x} =
 \begin{bmatrix}
-x_1 \\
-x_2 \\
+x_1 \\\\\\
+x_2 
 \end{bmatrix},
 \mathbf{b} = \begin{bmatrix}
-2 \\
-1 \\
+2 \\\\\\
+1
 \end{bmatrix}
 \end{aligned}
 \\]
@@ -47,7 +46,7 @@ x_2 \\
 \\[
 \mathbf{x} = A^{-1}\mathbf{b}=
 \begin{bmatrix}
-1 \\
+1 \\\\\\
 0 \\
 \end{bmatrix}
 \\]
@@ -58,19 +57,21 @@ x_2 \\
 
 만약에 아래처럼, 두 개의 변수가 있는데, 세 개의 등식이 있으면 어떻게 될까?
 \\[
-2x_1+x_2 = 2\\
-x_1+2x_2 = 1\\
+2x_1+x_2 = 2\\\\\\
+x_1+2x_2 = 1\\\\\\
 x_1+3x_2 = 0
 \\]
 이럴 경우, 근사 값 $\hat{\mathbf{x}}$를 찾아서 $A\hat{\mathbf{x}}$가 $\mathbf{b}$에 최대한 가깝도록 $\hat{\mathbf{x}}$를 찾아야 한다. 즉, $\min_{\mathbf{x}} ||A{\mathbf{x}}-\mathbf{b}||$를 찾아야 하고, 이러한 문제를 최소자승법, least-square method라고 한다.
 
 ## 2. Least square method
 
-Least square가 의미하는 것은 error $||A{\mathbf{x}}-\mathbf{b}||^2_2가 최소가 되도록 하는 것이고,
+Least square가 의미하는 것은 error $||A{\mathbf{x}}-\mathbf{b}||^2_2$가 최소가 되도록 하는 것이고,
 이를 풀어서 쓰면 아래와 같이 된다.
 \\[
-E = (A\mathbf{x}-\mathbf{b})^T(A\mathbf{x}-\mathbf{b}) \\
-= \mathbf{x}^T A^T A \mathbf{x} - 2 \mathbf{b}^T A \mathbf{x} + \mathbf{b}^T \mathbf{b}
+\begin{aligned}
+E &= (A\mathbf{x}-\mathbf{b})^T(A\mathbf{x}-\mathbf{b}) \\\\\\
+&= \mathbf{x}^T A^T A \mathbf{x} - 2 \mathbf{b}^T A \mathbf{x} + \mathbf{b}^T \mathbf{b}
+\end{aligned}
 \\]
 
 $E$를 vector calculation을 통해 $\mathbf{x}$에 대해 미분하면,
