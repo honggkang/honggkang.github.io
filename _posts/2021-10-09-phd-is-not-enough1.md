@@ -4,7 +4,7 @@ toc: true
 title: 공학자/과학자/연구자를 위한 생존 전략 (1)
 categories: 연구
 comments: true
-author: Hong-Gu Kang
+author: hgkang
 ---
 
 Peter J. Feibelman 원저의 `A Ph.D. Is Not Enough!`을 읽으며 개인적으로 인상 깊은 내용을 정리하는 첫 번째 포스팅이다.

@@ -4,7 +4,7 @@ toc: true
 title: 권도균의 스타트업 경영 수업 (1)
 categories: 스타트업
 comments: true
-author: Hong-Gu Kang
+author: hgkang
 ---
 
 권도균의 `권도균의 스타트업 경영 수업`을 읽으며 개인적으로 인상 깊은 내용을 정리하는 첫 번째 포스팅이다.

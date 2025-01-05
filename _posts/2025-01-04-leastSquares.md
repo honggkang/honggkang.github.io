@@ -3,6 +3,7 @@ layout: post
 title: Least sqaure 개념과 설명
 toc: true
 categories: 연구
+author: hgkang
 comments: true
 use_math: true
 ---
