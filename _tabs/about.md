@@ -13,7 +13,7 @@ I received the B.Sc. degree in electronic engineering from Hanyang University, S
 
 > I have worked on innumerable problems that you would call humble, but which I enjoyed and felt very good about because I sometimes could partially succeed... No problem is too small or too trivial if we can really do something about it. <br /> (Richard Feynman's Letter on What Problems to Solve)
 
-> I have not failed, but found 1000 ways to not make a light bulb. <br />(Thomas Edison)
+> I have not failed, but found 1000 ways to not make a light bulb. <br />(Thomas Edison) 
 
 - Every decision entails trade-offs. There is no option that is entirely negative or entirely positive. It is unnecessary to excessively ruminate over a decision and hesitate. Instead, act without hesitation!
 
@@ -35,9 +35,9 @@ I received the B.Sc. degree in electronic engineering from Hanyang University, S
 Also refer to my [google scholar][google-scholar].
 ### Journal
 
-[J8] **H. Kang**, S. Cha, and J. Kang, "GeFL: Model-Agnostic Federated Learning with Generative Models," (to be submitted). [[Project page]][gefl]
+[J8] **H. Kang**, S. Cha, and J. Kang, "GeFL: Model-Agnostic Federated Learning with Generative Models," (accepted, to be published). [[Project page]][gefl]
 
-[J7] **H. Kang**, S. Cha, J. Shin, J. Lee, and J. Kang, "NeFL: Nested federated learning for heterogeneous clients," (to be published) [[Project page]][nefl].
+[J7] **H. Kang**, S. Cha, J. Shin, J. Lee, and J. Kang, "NeFL: Nested federated learning for heterogeneous clients," (accepted, to be published) [[Project page]][nefl].
 
 <span style="color:red">**[J6]**</span> S. Joo, **H. Kang**, and J. Kang, "CoSMoS: Cooperative Sky-ground Mobile Edge Computing System," *IEEE Trans. Veh. Technol.*, vol 70, no. 8, pp. 8373-8377, Aug. 2021. [SCI, IF: 5.978 (2020)]
 
