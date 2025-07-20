@@ -35,9 +35,9 @@ I received the B.Sc. degree in electronic engineering from Hanyang University, S
 Also refer to my [google scholar][google-scholar].
 ### Journal
 
-[J8] **H. Kang**, S. Cha, and J. Kang, "GeFL: Model-Agnostic Federated Learning with Generative Models," (accepted, to be published). [[Project page]][gefl]
+<span style="color:red">**[J8]**</span> **H. Kang**, S. Cha, and J. Kang, "GeFL: Model-Agnostic Federated Learning with Generative Models," (accepted, to be published). [[Project page]][gefl]
 
-[J7] **H. Kang**, S. Cha, J. Shin, J. Lee, and J. Kang, "NeFL: Nested federated learning for heterogeneous clients," (accepted, to be published) [[Project page]][nefl].
+<span style="color:red">**[J7]**</span> **H. Kang**, S. Cha, J. Shin, J. Lee, and J. Kang, "NeFL: Nested federated learning for heterogeneous clients," (accepted, to be published) [[Project page]][nefl].
 
 <span style="color:red">**[J6]**</span> S. Joo, **H. Kang**, and J. Kang, "CoSMoS: Cooperative Sky-ground Mobile Edge Computing System," *IEEE Trans. Veh. Technol.*, vol 70, no. 8, pp. 8373-8377, Aug. 2021. [SCI, IF: 5.978 (2020)]
 
