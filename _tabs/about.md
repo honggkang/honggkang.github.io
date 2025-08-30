@@ -5,7 +5,8 @@ order: 4
 ---
 
 ## Short bio
-I received the B.Sc. degree in electronic engineering from Hanyang University, Seoul, South Korea, in 2017, and the M.Sc. and Ph.D. degrees from the School of Electrical Engineering, Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea, in 2019 and 2024. My research interests include signal processing, wireless communications, edge AI, and distributed machine learning.
+I received the B.Sc. degree in electronic engineering from Hanyang University, Seoul, South Korea, in 2017, and the M.Sc. and Ph.D. degrees from the School of Electrical Engineering, Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea, in 2019 and 2024.
+My research interests include signal processing, wireless communications, edge AI, and distributed machine learning.
 
 <hr/>
 
@@ -37,7 +38,7 @@ Also refer to my [google scholar][google-scholar].
 
 <span style="color:red">**[J8]**</span> **H. Kang**, S. Cha, and J. Kang, "GeFL: Model-Agnostic Federated Learning with Generative Models," (accepted, to be published). [[Project page]][gefl]
 
-<span style="color:red">**[J7]**</span> **H. Kang**, S. Cha, J. Shin, J. Lee, and J. Kang, "NeFL: Nested federated learning for heterogeneous clients," (accepted, to be published) [[Project page]][nefl].
+<span style="color:red">**[J7]**</span> **H. Kang**, S. Cha, J. Shin, J. Lee, and J. Kang, "NeFL: Nested federated learning for heterogeneous clients," *IEEE Transactions on Mobile Computing*, vol. 24, no. 8, pp. 6734-6746, Aug. 2025. [[Project page]][nefl].
 
 <span style="color:red">**[J6]**</span> S. Joo, **H. Kang**, and J. Kang, "CoSMoS: Cooperative Sky-ground Mobile Edge Computing System," *IEEE Trans. Veh. Technol.*, vol 70, no. 8, pp. 8373-8377, Aug. 2021. [SCI, IF: 5.978 (2020)]
 
@@ -86,6 +87,26 @@ Also refer to my [google scholar][google-scholar].
 
 [P2] "SYSTEM AND METHOD FOR MOBILE EDGE COMPUTING USING TETHERED UNMANNED AERIAL VEHICLE AND GROUND EDGE CLOUD," KR application no. 10-2021-0040379, patent no. 10-2345374, Dec. 27, 2021
 
+[P3] ""APPARATUS AND METHOD FOR NEURAL NETWORK BASED CHANNEL ESTIMATION OPTIMIZATION," KR application no. 10-2024-0096061, May 2025
+      
+[P4] "CONFIDENTIALITY OPTIMIZED UAV SURVEILLANCE ALGORITHM FOR OPTIMIZING SURVEILLANCE OPERATIONS OF UNMANNED AERIAL VEHICLES," KR application no. 10-2023-0186986, Jun. 2025
+
 [google-scholar]: https://scholar.google.com/citations?user=zVQggNkAAAAJ&hl=ko
 [nefl]: https://honggkang.github.io/nefl/
 [gefl]: https://honggkang.github.io/gefl/
+
+## Service
+Reviewer: IEEE Trans. on Vehicular Technology, IEEE Trans. on Wireless Communications, IEEE Trans. on Communications, IEEE Trans. on Signal Processing, IEEE Trans. on Mobile Computing, IEEE Trans. on Pattern Analysis and Machine Intelligence
+
+Talks: AI in the Industry & Our Future @ Myongji U., Value of the Metaverse: Imitation and Augmentation @ KAIST
+
+## Award
+Qualcomm Innovation Fellowship Korea 2023 - Finalist
+
+E*5 KAIST 2021 - 1st place
+
+KICS Fall 2019 - Best paper award
+
+Qualcomm-KAIST Innovation Awards 2018 - Finalist
+
+Foreigner tutoring program - Best tutor (1st)
