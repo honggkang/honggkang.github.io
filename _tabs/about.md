@@ -100,6 +100,8 @@ Reviewer: IEEE Trans. on Vehicular Technology, IEEE Trans. on Wireless Communica
 
 Talks: AI in the Industry & Our Future @ Myongji U., Value of the Metaverse: Imitation and Augmentation @ KAIST
 
+Teaching: [AI/ML](https://honggkang.github.io/aiml-teaching/)
+
 ## Award
 Qualcomm Innovation Fellowship Korea 2023 - Finalist
 
