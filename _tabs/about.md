@@ -36,9 +36,9 @@ My research interests include signal processing, wireless communications, edge A
 Also refer to my [google scholar][google-scholar].
 ### Journal
 
-<span style="color:red">**[J8]**</span> **H. Kang**, S. Cha, and J. Kang, "GeFL: Model-Agnostic Federated Learning with Generative Models," (accepted, to be published). [[Project page]][gefl]
+<span style="color:red">**[J8]**</span> **H. Kang**, S. Cha, and J. Kang, "GeFL: Model-Agnostic Federated Learning with Generative Models," (accepted, to be published in IEEE TMC). [[Project page]][gefl][SCI, IF: 9.2 (2025)]
 
-<span style="color:red">**[J7]**</span> **H. Kang**, S. Cha, J. Shin, J. Lee, and J. Kang, "NeFL: Nested federated learning for heterogeneous clients," *IEEE Transactions on Mobile Computing*, vol. 24, no. 8, pp. 6734-6746, Aug. 2025. [[Project page]][nefl].
+<span style="color:red">**[J7]**</span> **H. Kang**, S. Cha, J. Shin, J. Lee, and J. Kang, "NeFL: Nested federated learning for heterogeneous clients," *IEEE Transactions on Mobile Computing*, vol. 24, no. 8, pp. 6734-6746, Aug. 2025. [[Project page]][nefl][SCI, IF: 9.2 (2025)][Popular article in IEEE TMC].
 
 <span style="color:red">**[J6]**</span> S. Joo, **H. Kang**, and J. Kang, "CoSMoS: Cooperative Sky-ground Mobile Edge Computing System," *IEEE Trans. Veh. Technol.*, vol 70, no. 8, pp. 8373-8377, Aug. 2021. [SCI, IF: 5.978 (2020)]
 
